@@ -56,4 +56,4 @@ All AWS resources were cleaned up to avoid future charges.
 ---
 
 ## 🔗 Workshop Link
-[Serverless Data Lake Day – AWS Workshop Studio](https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/en-US)
+[Serverless Data Lake Day – AWS Workshop Studio](https://catalog.us-east-1.prod.workshops.aws/workshops/ea7ddf16-5e0a-4ec7-b54e-5cadf3028b78/en-US)

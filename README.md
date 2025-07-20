@@ -51,7 +51,6 @@ It demonstrates how to build a serverless, scalable, and cost-effective data lak
 
 ## 🧼 Clean-up Notes
 All AWS resources were cleaned up to avoid future charges.  
-(Check Clean Up section in workshop if you’re redoing this project.)
 
 ---
 
